@@ -1,5 +1,5 @@
 # Tableau_Projects
-Dashboards deployed on Public deployed
+**Dashboards deployed on Tableau Public **
 
 AirBnb Seattle Dashboard URL : https://public.tableau.com/app/profile/abdul.junaid/viz/AirBnb_Seattle_DashBoard/Dashboard1
 
